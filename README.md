@@ -28,6 +28,7 @@ Coterminous.connect(new MessagePortTransport(worker.port)).then(function(remoteI
   
 ### Changing Direction
 Connect - connects and gets the root object
+
 ConnectTransport - just connects
 
 You can swap these around to suit your needs, worker going to call the webpage?  use connect.  api calls in both directions?  sure! Use connect in both places.
