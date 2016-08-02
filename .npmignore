@@ -1,0 +1,9 @@
+bin
+bower
+node_modules
+src
+.gitignore
+.npmignore
+*.json
+*.js
+*.html

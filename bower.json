@@ -1,0 +1,30 @@
+{
+  "name": "coterminous-js-messageport",
+  "description": "A transport for use with Message Ports such as WebWorkers",
+  "main": "bower/messageport.js",
+  "authors": [
+    "Jake Tober <jake@macadamian.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "webpack",
+    "es6",
+    "rpc"
+  ],
+  "homepage": "https://github.com/tobes31415/coterminous-js-messageport",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "npm",
+    "src",
+    "test",
+    "tests",
+    "*.js",
+    "*.html",
+    "*.json"
+  ],
+  "devDependencies": {
+    "coterminous-js": "^0.1.6"
+  }
+}
