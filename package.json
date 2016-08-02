@@ -1,6 +1,6 @@
 {
   "name": "coterminous-js-messageport",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "A transport for use with Message Ports such as WebWorkers",
   "main": "npm/messageport.js",
   "dependencies": {},
